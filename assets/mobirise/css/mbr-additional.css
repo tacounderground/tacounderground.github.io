@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-size: 20px;
+}
+#header1-1 H1 {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+#msg-box3-2 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2 .mbr-article P {
+  color: #000000;
+}
