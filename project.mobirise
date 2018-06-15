@@ -60,7 +60,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-2\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONNECT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-2\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#social-buttons2-3\">CONNECT</a></li>",
           "logo": {
             "image": {
               "active": true,
