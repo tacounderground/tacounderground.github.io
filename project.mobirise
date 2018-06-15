@@ -14,7 +14,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.7",
     "uniqCompNum": 5,
-    "versionPublish": "4.7.7"
+    "versionPublish": "4.7.7",
+    "favicon": "@PROJECT_PATH@/assets/images/tacofavicon-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
